@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A3%D8%A8%D9%88%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85-6b938313a/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdohwebdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=249963597485" target="_blank">
